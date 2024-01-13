@@ -6,3 +6,16 @@ To run this software from a local host (Wampp or Xampp  server). Wamp or Xamp Se
 	Go to the root folder of the Xampp or Wamp server named “”www”  or server named htdocs and open the folder
 	Copy the application from the CD or Flash drive into the opened folder
 
+the server that the softwaere use XAMMP 3.3.2
+Data base name PRINCE
+
+USER LOGING DETAILS
+USER NAME bulangu
+PASWORD dady
+
+ADMIN LOGING DETAILS
+
+USER NAME admjn
+PASWORD admin
+
+
