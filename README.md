@@ -15,7 +15,7 @@ PASWORD dady
 
 ADMIN LOGING DETAILS
 
-USER NAME admjn
+USER NAME admin
 PASWORD admin
 
 
